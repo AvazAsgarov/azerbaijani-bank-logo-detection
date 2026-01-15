@@ -1,0 +1,10 @@
+# 1. Paths to the image folders
+train: ../dataset/images/train
+val: ../dataset/images/val
+test: ../dataset/images/test
+
+# 2. Number of classes
+nc: 3
+
+# 3. Class names
+names: ['ABB', 'Kapital Bank', 'Pasha Bank']

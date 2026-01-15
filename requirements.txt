@@ -1,0 +1,24 @@
+# Core Machine Learning
+torch
+torchvision
+ultralytics
+opencv-python
+numpy
+pandas
+scikit-learn
+tqdm
+
+# Visualization & Reporting
+matplotlib
+seaborn
+openpyxl
+xlsxwriter
+
+# Application & API
+streamlit
+openai
+python-dotenv
+Pillow
+
+# XML Handling
+lxml
